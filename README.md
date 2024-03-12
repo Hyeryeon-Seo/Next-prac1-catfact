@@ -2,6 +2,8 @@
 
 Next.js 연습 프로젝트 (1) - practice `routing`/`rendering`, and `Tailwind CSS`, using `catfact api`
 
+(Next.js 기본 css 활용)
+
 <br>
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
