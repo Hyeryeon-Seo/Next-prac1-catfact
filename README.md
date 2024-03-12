@@ -1,20 +1,20 @@
 # 😺 Next-prac1-catfact
 
-Next.js 연습 프로젝트 (1) - practice `routing`/`rendering`, and `Tailwind CSS`, using `catfact api`
+Next.js 간단한 연습 프로젝트 (1) - practice `routing`/`rendering`, and `Tailwind CSS`, using `catfact api`
 
 (Next.js 기본 css 참고 활용)
 
-## Screenshot of Pages
+## 🎀 Screenshots of Pages
 
 🔮 Home
 
-<img src="public\nextJs_prac01_catfact_screenshot1.png" width=500/>
+<img src="public\nextJs_prac01_catfact_screenshot1.png" width=800/>
 
 <br/>
 
 🔮 Detail (`SSG, ISR, SSR, CSR`)
 
-<img src="public\nextJs_prac01_catfact_screenshot2.png" width=500/>
+<img src="public\nextJs_prac01_catfact_screenshot2.png" width=800/>
 
 ---
 
